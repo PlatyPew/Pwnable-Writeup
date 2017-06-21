@@ -1,0 +1,5 @@
+Code:
+3039230856
+
+Flag:
+Mommy, I thought libc random is unpredictable...

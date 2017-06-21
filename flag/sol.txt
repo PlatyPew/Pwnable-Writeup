@@ -1,0 +1,7 @@
+Code:
+upx -d flag
+gdb flag
+printf "%s",*0x6c2070
+
+Flag:
+UPX...? sounds like a delivery service :)
