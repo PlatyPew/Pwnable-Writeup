@@ -16,4 +16,4 @@ Remember to enter the values in Little-endian.
 ``
 
 ## Flag:
-daddy! I just managed to create a hash collision :)
+`daddy! I just managed to create a hash collision :)`
