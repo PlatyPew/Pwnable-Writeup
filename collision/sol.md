@@ -8,9 +8,9 @@ The function then retturns the value and checks if it's `0x21DD09EC`.
 
 So if we can print out characters that add up to `0x21DD09EC`, we can solve this challenge
 
-`0x01111111 * 4 + 0x1d98c5a8`
+`0x01111111 * 4 + 0x1D98C5A8 = 0x21DD09EC`
 
-Remember to enter the values in Little-endian.
+Remember to enter the values in Little-endian format.
 
 ## Code:
 ``
