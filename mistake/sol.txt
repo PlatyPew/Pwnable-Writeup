@@ -1,5 +1,0 @@
-Code
-(echo @@@@@@@@@@; echo AAAAAAAAAA) | ./mistake
-
-Flag:
-Mommy, the operator priority always confuses me :(
