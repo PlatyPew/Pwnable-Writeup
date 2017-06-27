@@ -3,7 +3,6 @@
 int main(){
 	unsigned int random;
 	random = rand();	// random value!
-	printf("Value: %d\n",random);
 
 	unsigned int key=0;
 	scanf("%d", &key);
